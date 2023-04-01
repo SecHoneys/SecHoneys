@@ -1,38 +1,28 @@
-<div>
-  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/julio-cezar-de-paula-baldo-51774321a/"><i>SecHoneys</i></a> 😃️</h1>
-  <p align="center">Estudo Desenvolvimento Web e compartilho meu aprendizado no meu canal no <a href="https://www.youtube.com/channel/UCLln4dGTa1huQuTLlHaJXQA"><i>YouTube</i></a><span> 👉😉️</span>
-  <p align="center">Já se inscreve aí e vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️</h2>
-</div>
+<h1 align="center">Olá, eu sou [SecHoneys] 👋</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" alt="Python">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" alt="HTML5">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" alt="CSS3">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SecHoneys&show_icons=true&theme=tokyonight" alt="SecHoneys">
+</p>
+
+## Sobre mim
+
+Olá! Meu nome é Julio Cezar  e eu sou apaixonado por tecnologia da informação. Estou me formando na área da gestão da tecnlogia.
+
+Sempre gostei de trabalhar em projetos relacionados à TI. Adoro aprender novas tecnologias e ferramentas para aprimorar minhas habilidades.
 
 
-<!-- <h1 align="center"> 
-  Trybe
-</h1>
+Se você quiser saber mais sobre mim ou entrar em contato, sinta-se à  vontade em me chama no LinkedIn https://www.linkedin.com/in/julio-cezar-de-paula-baldo-51774321a/.
 
-<p align="center"><i>"A Trybe é uma escola do futuro para qualquer pessoa que deseja construir uma carreira de sucesso em tecnologia. Como estudante a pessoa ainda tem a opção de pagar os estudos apenas quando estiver formada e com um bom trabalho."</i></p> -->
+## Habilidades
 
-<div align="center">
-  <a href="https://github.com/SecHoneys">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SecHoneys&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SecHoneys&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
-</div>
-
-<div align="center" valign="top"><br>
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
-  <img align="center" alt="Wa-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
-  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-<!--   <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> -->
-  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-</div><br>
-
-<div align="center">
-  <a href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/julio-cezar-de-paula-baldo-51774321a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+- [IHM - INTERFACE] 😎
+- [ALGORITIMOS] 😍
+- [ESTRUT. DE COMPUTADORES] 🚀
+- [REDES] 🔥
